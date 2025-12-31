@@ -1,0 +1,19 @@
+# Online Banking System 
+## Project Structure
+com/banking/
+ ├── Account.java 
+ ├── BankingException.java
+ ├── BankSystem.java
+ ├── CurrentAccount.java
+ ├── OnlineBankingSystem.java (Main class)
+ └── SavingsAccount.java
+
+
+## Instructions to Run
+
+1. Compile the project:
+   javac com/banking/*.java
+
+2. Run the project:
+   java com.banking.OnlineBankingSystem
+
